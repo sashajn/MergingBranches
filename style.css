@@ -7,10 +7,20 @@ p{
 .one{
     width: 15em;
     height: 15em;
-    border: 1px solid palevioletred;
     background-color: palevioletred;
     display: flex;
     justify-content: center;
     flex-direction: column;
     text-align: center;
+}
+
+.two{
+    width: 15em;
+    height: 15em;
+    background-color: cornflowerblue;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    margin: 3em;
 }
