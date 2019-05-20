@@ -22,4 +22,5 @@ p{
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    margin: 3em;
 }
